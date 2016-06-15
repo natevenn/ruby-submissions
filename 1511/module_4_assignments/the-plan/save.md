@@ -129,3 +129,4 @@ that React is becoming a hot new framework that could lead me to a job.
 * Hopefully stay in touch with my cohort on the Turing slack
   channel/Linkedin/twitter/getting a beer or other social events
 
+
