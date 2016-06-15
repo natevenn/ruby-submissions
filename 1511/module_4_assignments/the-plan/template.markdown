@@ -6,3 +6,5 @@
 
 ### Submitted Assignments
 
+Link to or paste in **two** completed assignments below.
+
